@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋,World i'm Beno Dwianto</h1>
 <h3 align="center">I am an intermediate programmer, I am currently studying at the  University Putra Indonesia YPTK Padang</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benodwianto&label=Profile%20views&color=0e75b6&style=flat" alt="benodwianto" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benodwianto" alt="benodwianto" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://benodwianto.github.io/](https://benodwianto.github.io/)
+- 👨‍💻 All of my projects are available at here.
 
 - 💬 Ask me about **php,laravel**
 
