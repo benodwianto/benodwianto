@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&color=ffa12e&center=true&vCenter=true&pause=500&width=700&height=60&lines=BENO+DWIANTO" />
+  </h1>
+  
 <h1 align="center">Hello 👋 World, i'm Beno Dwianto</h1>
 <h3 align="center">A passionate Back End developer,Now i'm studying in University Putra Indonesia YPTK Padang, Faculty Computer Science</h3>
 
