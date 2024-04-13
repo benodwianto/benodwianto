@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&color=ffa12e&center=true&vCenter=true&pause=500&width=700&height=60&lines=BENO+DWIANTO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&color=3576da&center=true&vCenter=true&pause=500&width=700&height=60&lines=BENO+DWIANTO" />
   </h1>
   
 <h1 align="center">Hello 👋 World, i'm Beno Dwianto</h1>
