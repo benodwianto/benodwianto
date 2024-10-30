@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Fullstack-laravel](https://github.com/benodwianto/codepolitancourse-fullstackLaravel)
 
-- 🌱 I’m currently learning **Codepolitan Course about Laravel Fullstack**
+- 🌱 I’m currently learning **React Js**
 
-- 👨‍💻My web portfolio [https://benodwianto.github.io/](https://benodwianto.github.io/)
+- 👨‍💻My web portfolio [https://benodwianto-portfolio.vercel.app/)
 
 - 💬 Ask me about **anything, i'm happy to help**
 
-- 📫 How to reach me **benodwianto@gmail.com**
+- 📫 How to reach me **benodwianto9@gmail.com**
 
 - 📄 Know about my experiences [I just finished a bootcamp in the IT Cybernatic student activity unit on back-end developer](I just finished a bootcamp in the IT Cybernatic student activity unit on back-end developer)
 
