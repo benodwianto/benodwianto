@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/beno-dwianto-b9372a294/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/benodww/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&color=3576da&center=true&vCenter=true&pause=500&width=700&height=60&lines=BENO+DWIANTO" />
   </h1>
@@ -38,3 +47,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benodwianto&show_icons=true&locale=en" alt="benodwianto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benodwianto&" alt="benodwianto" /></p>
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
